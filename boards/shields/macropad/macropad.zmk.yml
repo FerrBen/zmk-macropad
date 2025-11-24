@@ -1,0 +1,8 @@
+file_format: "1"
+id: macropad
+name: Macropad
+type: shield
+url: https://github.com/FerrBen/zmk-macropad
+requires: [pro_micro]
+features:
+    - keys
